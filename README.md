@@ -20,7 +20,7 @@ Welcome to my C++ Data Structures and Algorithms (DSA) repository! This repo con
 Clone the repository and explore individual files for each topic:
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/chayanC7mondal/c--.git
 ```
 
 ## 🤝 Contributing
